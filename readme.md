@@ -1,0 +1,3 @@
+Dinastycoin wallet gui 
+
+(todo)
